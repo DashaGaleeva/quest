@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">quest</string>
+    <string name="greeting">Добро пожаловать! Выберите квест из списка и нажмите кнопку "Начать" в нижней части экрана.</string>
+    <string name="button_start_text">Начать</string>
+</resources>
